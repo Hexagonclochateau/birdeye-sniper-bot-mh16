@@ -1,4 +1,4 @@
-# 
+# instant Sniper for birdeye sniper bot | slippage-control & buy-pressure-analysis is the best birdeye sniper bot, featuring slippage-control and buy-pressure-analysis. Fast, smart,
 
 
 
